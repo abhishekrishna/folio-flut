@@ -1,4 +1,4 @@
-# stack_id
+# A portfolio flutter app
 
 A new Flutter portfolio application.
 
